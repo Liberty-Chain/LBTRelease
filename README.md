@@ -15,7 +15,7 @@
 * Wait for synchronization to complete.
 * Run the LBT wallet with a new shell,run:
 	'''
-	./liberty-wallet-cli
+	./liberty-wallet-cli --stagenet
 	'''
 * Enter the wallet name and password and select the language.
 * Keep your seeds.
@@ -40,7 +40,7 @@
 * Wait for synchronization to complete.
 * Run the LBT wallet with a new shell,run:
 	'''
-	liberty-wallet-cli.exe
+	liberty-wallet-cli.exe --stagenet
 	'''
 * Enter the wallet name and password and select the language.
 * Keep your seeds.
